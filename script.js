@@ -51,7 +51,7 @@ document.addEventListener('DOMContentLoaded', () => {
         // Cria a mensagem que será enviada para o WhatsApp.
         // O `\n` cria uma nova linha. O `*` em volta do texto cria um efeito de negrito no WhatsApp.
         const message = 
-`Olá! 👋 Sou da Rede Fevre e quero ganhar um curso... Poderiam me passar mais informações?.
+`Olá! 👋 Sou da Rede FEVRE e quero ganhar um curso... Poderiam me passar mais informações?.
 
 *DADOS DO ALUNO(A):*
 *Nome:* ${studentName}
